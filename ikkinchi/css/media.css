@@ -1,0 +1,152 @@
+@media(max-width: 1199.98px){
+    .header_p{
+        font-size: 20px;
+    }
+    header h2{
+        font-size: 30px;
+    }
+    .header-p{
+        font-size: 12px;
+
+    }
+    .header-a{
+        padding: 22px 25px;
+    }
+    .col-xl-6_p{
+        left: 880px;
+
+    }
+    .col-xl-6-p{
+        left: 530px;
+        
+    }
+    .header-img{
+        left: 390px;
+        top: -720px;
+    }
+    .lew h3{
+        font-size: 22px;
+    }
+    .lew p{
+        font-size: 13px;
+    }
+
+} 
+@media(max-width: 991.98px){
+    .col-xl-4{
+        margin: 250px 0;
+    }
+    .col-xl-6_p{
+        left: 640px;
+        top: 550px;
+    }
+    .header-img{
+        left: 270px;
+        max-width: 400px;
+        
+    }
+    .col-xl-6-p{
+        left: 420px;
+    }
+    .lew{
+        width: 160px;
+        left: 530px;
+    }
+    .lew h3{
+        font-size: 16px;
+    }
+    .lew p{
+        font-size: 10px;
+    }
+    
+}
+@media(max-width: 767.98px){
+.nav-a{
+        font-size: 9px;
+    }
+    .fine .fa{
+        font-size: 10px;
+    }
+    .logo-nav{
+        font-size: 8px;
+    }
+    header h2{
+        font-size: 25px;
+    }
+    .header_p{
+        font-size: 15px;
+    }
+    .header-p{
+        font-size: 11px;
+       max-width: 200px;
+    }
+    .header-img{
+        left: 137px;
+    }
+    header h2{
+        font-size: 23px;
+    }
+    .col-xl-6-p{
+         left: 220px;
+        top: 125px;
+    }
+    .col-xl-6_p{
+        left: 446px;
+    }
+    .left{
+        left: 20px;
+    }
+    .items{
+        width: 437px !important;
+    padding: 0 100px;
+    }
+    .lew{
+        width: 160px;
+        left: 885px;
+    }
+    .lew h3{
+        font-size: 15px;
+    }
+    .lew p{
+        font-size: 9px;
+    }
+    .title-img{   
+         width: 300px;
+        padding: 116px 0;
+    }
+    .nine{
+        right: 210px;
+    }
+    .red{
+        left: 285px;
+    }
+    
+}
+@media(max-width: 575.98px){
+    .nav-a{
+        font-size: 9px;
+    }
+    .col-xl-6-p{
+        left: 170px;
+    }
+    .header-p {
+        font-size: 9px;
+        max-width: 160px;
+    }
+    header h2 {
+        font-size: 21px;
+    }
+    .header-img {
+        left: 120px;
+    }
+    .col-xl-6_p {
+        left: 410px;
+    }
+    .next{
+        right: 10px;
+    }
+    .lew{
+        left: 830px;
+    }
+
+}
