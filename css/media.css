@@ -125,9 +125,12 @@
 @media(max-width: 575.98px){
     .nav-a{
         font-size: 9px;
+        width: 4px;
     }
-    .col-xl-6-p{
-        left: 170px;
+    .col-xl-6-p {
+        left: 150px;
+        font-size: 12px;
+        top: 205px;
     }
     .header-p {
         font-size: 9px;
@@ -138,15 +141,34 @@
     }
     .header-img {
         left: 120px;
+        width: 255px;
+        padding: 116px 1px;
     }
     .col-xl-6_p {
-        left: 410px;
+        left: 315px;
+        font-size: 8px;
+        top: 504px;
     }
     .next{
         right: 10px;
     }
     .lew{
-        left: 830px;
+        left: 640px;
+    }
+    
+    
+    .left{
+        left: 30px;
+    }
+    .items{
+        width: 245px!important;padding: 52px 43px;
+    }
+    .section-img{
+        width: 140px;
+    }
+    .title-img {
+        width: 228px;
+        padding: 116px 0;
     }
 
 }
